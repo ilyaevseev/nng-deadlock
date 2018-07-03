@@ -1,4 +1,8 @@
-## Demonstrate deadlock in nng library
+# Demonstrate deadlock in nng library
+
+* Written for https://github.com/nanomsg/nng/issues/570
+
+### Build and run:
 
 * make
 * ./nng-deadlock
